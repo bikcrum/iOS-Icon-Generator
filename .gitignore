@@ -1,0 +1,7 @@
+splash
+helper
+*.png
+.idea
+__init__.py
+__pycache__
+.DS_Store

@@ -1,0 +1,274 @@
+[
+  {
+    "device_name": "12.9 iPad Pro",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 2048,
+        "height": 2732,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2732,
+        "height": 2048,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "11 iPad Pro",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1668,
+        "height": 2388,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2388,
+        "height": 1668,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "10.5 iPad Pro",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1668,
+        "height": 2224,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2224,
+        "height": 1668,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "9.7 iPad",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1536,
+        "height": 2048,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2048,
+        "height": 1536,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "7.9 iPad mini 4",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1536,
+        "height": 2048,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2048,
+        "height": 1536,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone XS Max",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1242,
+        "height": 2688,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2688,
+        "height": 1242,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone XS",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1125,
+        "height": 2436,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2436,
+        "height": 1125,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone XR",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 828,
+        "height": 1792,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 1792,
+        "height": 828,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone X",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1125,
+        "height": 2436,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2436,
+        "height": 1125,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone 8 Plus",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1242,
+        "height": 2208,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2208,
+        "height": 1242,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone 8",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 750,
+        "height": 1334,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 1334,
+        "height": 750,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone 7 Plus",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1242,
+        "height": 2208,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2208,
+        "height": 1242,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone 7",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 750,
+        "height": 1334,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 1334,
+        "height": 750,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone 6s Plus",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 1242,
+        "height": 2208,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 2208,
+        "height": 1242,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone 6s",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 750,
+        "height": 1334,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 1334,
+        "height": 750,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "device_name": "iPhone SE",
+    "sizes": [
+      {
+        "type": "portrait",
+        "width": 640,
+        "height": 1136,
+        "unit": "px"
+      },
+      {
+        "type": "landscape",
+        "width": 1136,
+        "height": 640,
+        "unit": "px"
+      }
+    ]
+  }
+]
